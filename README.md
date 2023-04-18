@@ -13,18 +13,23 @@ Install instructions and script to launch BeamNG with the multiplayer mod.
 3. Extract the ZIP so you are left with `BeamMP_Installer.exe`.
 
 4. Run Protontricks and select the BeamNG steam app. (Steam ID 284160)
+
 ![Screenshot of Protontricks select steam app window](/assets/screenshot_setup_steam_app.png)
 
 5. Press "Select the default wineprefix".
+
 ![Screenshot of Protontricks select what you want to do window](/assets/screenshot_setup_select_wineprefix.png)
 
 6. Press "Run explorer".
+
 ![Screenshot of Protontricks select what you want to do in the wineprefix window](/assets/screenshot_setup_select_run_explorer.png)
 
 7. Navigate to the `BeamMP_Installer.exe` and double click the file to execute it.
+
 ![Screenshot of Protontricks explorer window](/assets/screenshot_setup_run_installer.png)
 
 8. Follow the installer just like you normally would on Windows.
+
 ![Screenshot of the BeamMP installer window](/assets/screenshot_setup_installer.png)
 
 ## Running BeamMP
